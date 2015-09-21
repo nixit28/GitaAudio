@@ -1,0 +1,580 @@
+{
+  "Gita": [
+    {
+      "title": "Adhyay - 01",
+      "url": "http://archive.org/download/GitaGujrati/gu_01_Adhyay_01.mp3",
+      "lang": "Gujarati",
+      "track": 1
+    },
+    {
+      "title": "Adhyay - 02",
+      "url": "http://archive.org/download/GitaGujrati/gu_02_Adhyay_02.Mp3",
+      "lang": "Gujarati",
+      "track": 2
+    },
+    {
+      "title": "Adhyay - 03",
+      "url": "http://archive.org/download/GitaGujrati/gu_03_Adhyay_03.mp3",
+      "lang": "Gujarati",
+      "track": 3
+    },
+    {
+      "title": "Adhyay - 04",
+      "url": "http://archive.org/download/GitaGujrati/gu_04_Adhyay_04.mp3",
+      "lang": "Gujarati",
+      "track": 4
+    },
+    {
+      "title": "Adhyay - 05",
+      "url": "http://archive.org/download/GitaGujrati/gu_05_Adhyay_05.mp3",
+      "lang": "Gujarati",
+      "track": 5
+    },
+    {
+      "title": "Adhyay - 06",
+      "url": "http://archive.org/download/GitaGujrati/gu_06_Adhyay_06.mp3",
+      "lang": "Gujarati",
+      "track": 6
+    },
+    {
+      "title": "Adhyay - 07",
+      "url": "http://archive.org/download/GitaGujrati/gu_07_Adhyay_07.mp3",
+      "lang": "Gujarati",
+      "track": 7
+    },
+    {
+      "title": "Adhyay - 08",
+      "url": "http://archive.org/download/GitaGujrati/gu_08_Adhyay_08.mp3",
+      "lang": "Gujarati",
+      "track": 8
+    },
+    {
+      "title": "Adhyay - 09",
+      "url": "http://archive.org/download/GitaGujrati/gu_09_Adhyay_09.mp3",
+      "lang": "Gujarati",
+      "track": 9
+    },
+    {
+      "title": "Adhyay - 10",
+      "url": "http://archive.org/download/GitaGujrati/gu_10_Adhyay_10.mp3",
+      "lang": "Gujarati",
+      "track": 10
+    },
+    {
+      "title": "Adhyay - 11",
+      "url": "http://archive.org/download/GitaGujrati/gu_11_Adhyay_11.Mp3",
+      "lang": "Gujarati",
+      "track": 11
+    },
+    {
+      "title": "Adhyay - 12",
+      "url": "http://archive.org/download/GitaGujrati/gu_12_Adhyay_12.mp3",
+      "lang": "Gujarati",
+      "track": 12
+    },
+    {
+      "title": "Adhyay - 13",
+      "url": "http://archive.org/download/GitaGujrati/gu_13_Adhyay_13.mp3",
+      "lang": "Gujarati",
+      "track": 13
+    },
+    {
+      "title": "Adhyay - 14",
+      "url": "http://archive.org/download/GitaGujrati/gu_14_Adhyay_14.mp3",
+      "lang": "Gujarati",
+      "track": 14
+    },
+    {
+      "title": "Adhyay - 15",
+      "url": "http://archive.org/download/GitaGujrati/gu_15_Adhyay_15.mp3",
+      "lang": "Gujarati",
+      "track": 15
+    },
+    {
+      "title": "Adhyay - 16",
+      "url": "http://archive.org/download/GitaGujrati/gu_16_Adhyay_16.mp3",
+      "lang": "Gujarati",
+      "track": 16
+    },
+    {
+      "title": "Adhyay - 17",
+      "url": "http://archive.org/download/GitaGujrati/gu_17_Adhyay_17.mp3",
+      "lang": "Gujarati",
+      "track": 17
+    },
+    {
+      "title": "Adhyay - 18",
+      "url": "http://archive.org/download/GitaGujrati/gu_18_Adhyay_18.Mp3",
+      "lang": "Gujarati",
+      "track": 18
+    },
+    {
+      "title": "Introduction",
+      "url": "http://archive.org/download/HindiGita/hi_01_Introduction.mp3",
+      "lang": "Hindi",
+      "track": 1
+    },
+    {
+      "title": "Gita Mahtamaya",
+      "url": "http://archive.org/download/HindiGita/hi_02_Gita_Mahtamaya.mp3",
+      "lang": "Hindi",
+      "track": 2
+    },
+    {
+      "title": "Adhyay - 01",
+      "url": "http://archive.org/download/HindiGita/hi_03_Adhyay_01.mp3",
+      "lang": "Hindi",
+      "track": 3
+    },
+    {
+      "title": "Adhyay - 02",
+      "url": "http://archive.org/download/HindiGita/hi_04_Adhyay_02.mp3",
+      "lang": "Hindi",
+      "track": 4
+    },
+    {
+      "title": "Adhyay - 03",
+      "url": "http://archive.org/download/HindiGita/hi_05_Adhyay_03.mp3",
+      "lang": "Hindi",
+      "track": 5
+    },
+    {
+      "title": "Adhyay - 04",
+      "url": "http://archive.org/download/HindiGita/hi_06_Adhyay_04.mp3",
+      "lang": "Hindi",
+      "track": 6
+    },
+    {
+      "title": "Adhyay - 05",
+      "url": "http://archive.org/download/HindiGita/hi_07_Adhyay_05.mp3",
+      "lang": "Hindi",
+      "track": 7
+    },
+    {
+      "title": "Adhyay - 06",
+      "url": "http://archive.org/download/HindiGita/hi_08_Adhyay_06.mp3",
+      "lang": "Hindi",
+      "track": 8
+    },
+    {
+      "title": "Adhyay - 07",
+      "url": "http://archive.org/download/HindiGita/hi_09_Adhyay_07.mp3",
+      "lang": "Hindi",
+      "track": 9
+    },
+    {
+      "title": "Adhyay - 08",
+      "url": "http://archive.org/download/HindiGita/hi_10_Adhyay_08.mp3",
+      "lang": "Hindi",
+      "track": 10
+    },
+    {
+      "title": "Adhyay - 09",
+      "url": "http://archive.org/download/HindiGita/hi_11_Adhyay_09.mp3",
+      "lang": "Hindi",
+      "track": 11
+    },
+    {
+      "title": "Adhyay - 10",
+      "url": "http://archive.org/download/HindiGita/hi_12_Adhyay_10.mp3",
+      "lang": "Hindi",
+      "track": 12
+    },
+    {
+      "title": "Adhyay - 11",
+      "url": "http://archive.org/download/HindiGita/hi_13_Adhyay_11.mp3",
+      "lang": "Hindi",
+      "track": 13
+    },
+    {
+      "title": "Adhyay - 12",
+      "url": "http://archive.org/download/HindiGita/hi_14_Adhyay_12.mp3",
+      "lang": "Hindi",
+      "track": 14
+    },
+    {
+      "title": "Adhyay - 13",
+      "url": "http://archive.org/download/HindiGita/hi_15_Adhyay_13.mp3",
+      "lang": "Hindi",
+      "track": 15
+    },
+    {
+      "title": "Adhyay - 14",
+      "url": "http://archive.org/download/HindiGita/hi_16_Adhyay_14.mp3",
+      "lang": "Hindi",
+      "track": 16
+    },
+    {
+      "title": "Adhyay - 15",
+      "url": "http://archive.org/download/HindiGita/hi_17_Adhyay_15.mp3",
+      "lang": "Hindi",
+      "track": 17
+    },
+    {
+      "title": "Adhyay - 16",
+      "url": "http://archive.org/download/HindiGita/hi_18_Adhyay_16.mp3",
+      "lang": "Hindi",
+      "track": 18
+    },
+    {
+      "title": "Adhyay - 17",
+      "url": "http://archive.org/download/HindiGita/hi_19_Adhyay_17.mp3",
+      "lang": "Hindi",
+      "track": 19
+    },
+    {
+      "title": "Adhyay - 18",
+      "url": "http://archive.org/download/HindiGita/hi_20_Adhyay_18.mp3",
+      "lang": "Hindi",
+      "track": 20
+    },
+    {
+      "title": "Introduction",
+      "url": "http://archive.org/download/SanskritGita/sn_01_Pranati.mp3",
+      "lang": "Sanskrit",
+      "track": 1
+    },
+    {
+      "title": "Adhyay - 01",
+      "url": "http://archive.org/download/SanskritGita/sn_02_Gita_Chapt01.mp3",
+      "lang": "Sanskrit",
+      "track": 2
+    },
+    {
+      "title": "Adhyay - 02",
+      "url": "http://archive.org/download/SanskritGita/sn_03_Gita_Chapt02.mp3",
+      "lang": "Sanskrit",
+      "track": 3
+    },
+    {
+      "title": "Adhyay - 03",
+      "url": "http://archive.org/download/SanskritGita/sn_04_Gita_Chapt03.mp3",
+      "lang": "Sanskrit",
+      "track": 4
+    },
+    {
+      "title": "Adhyay - 04",
+      "url": "http://archive.org/download/SanskritGita/sn_05_Gita_Chapt04.mp3",
+      "lang": "Sanskrit",
+      "track": 5
+    },
+    {
+      "title": "Adhyay - 05",
+      "url": "http://archive.org/download/SanskritGita/sn_06_Gita_Chapt05.mp3",
+      "lang": "Sanskrit",
+      "track": 6
+    },
+    {
+      "title": "Adhyay - 06",
+      "url": "http://archive.org/download/SanskritGita/sn_07_Gita_Chapt06.mp3",
+      "lang": "Sanskrit",
+      "track": 7
+    },
+    {
+      "title": "Adhyay - 07",
+      "url": "http://archive.org/download/SanskritGita/sn_08_Gita_Chapt07.mp3",
+      "lang": "Sanskrit",
+      "track": 8
+    },
+    {
+      "title": "Adhyay - 08",
+      "url": "http://archive.org/download/SanskritGita/sn_09_Gita_Chapt08.mp3",
+      "lang": "Sanskrit",
+      "track": 9
+    },
+    {
+      "title": "Adhyay - 09",
+      "url": "http://archive.org/download/SanskritGita/sn_10_Gita_Chapt09.mp3",
+      "lang": "Sanskrit",
+      "track": 10
+    },
+    {
+      "title": "Adhyay - 10",
+      "url": "http://archive.org/download/SanskritGita/sn_11_Gita_Chapt10.mp3",
+      "lang": "Sanskrit",
+      "track": 11
+    },
+    {
+      "title": "Adhyay - 11",
+      "url": "http://archive.org/download/SanskritGita/sn_12_Gita_Chapt11.mp3",
+      "lang": "Sanskrit",
+      "track": 12
+    },
+    {
+      "title": "Adhyay - 12",
+      "url": "http://archive.org/download/SanskritGita/sn_13_Gita_Chapt12.mp3",
+      "lang": "Sanskrit",
+      "track": 13
+    },
+    {
+      "title": "Adhyay - 13",
+      "url": "http://archive.org/download/SanskritGita/sn_14_Gita_Chapt13.mp3",
+      "lang": "Sanskrit",
+      "track": 14
+    },
+    {
+      "title": "Adhyay - 14",
+      "url": "http://archive.org/download/SanskritGita/sn_15_Gita_Chapt14.mp3",
+      "lang": "Sanskrit",
+      "track": 15
+    },
+    {
+      "title": "Adhyay - 15",
+      "url": "http://archive.org/download/SanskritGita/sn_16_Gita_Chapt15.mp3",
+      "lang": "Sanskrit",
+      "track": 16
+    },
+    {
+      "title": "Adhyay - 16",
+      "url": "http://archive.org/download/SanskritGita/sn_17_Gita_Chapt16.mp3",
+      "lang": "Sanskrit",
+      "track": 17
+    },
+    {
+      "title": "Adhyay - 17",
+      "url": "http://archive.org/download/SanskritGita/sn_18_Gita_Chapt17.mp3",
+      "lang": "Sanskrit",
+      "track": 18
+    },
+    {
+      "title": "Adhyay - 18",
+      "url": "http://archive.org/download/SanskritGita/sn_19_Gita_Chapt18.mp3",
+      "lang": "Sanskrit",
+      "track": 19
+    },
+    {
+      "title": "Introduction - 01",
+      "url": "http://archive.org/download/MarathiGita/01_intro_marathi.mp3",
+      "lang": "Marathi",
+      "track": 1
+    },    {
+      "title": "Adhyay - 01",
+      "url": "http://archive.org/download/MarathiGita/chapter_01_marathi.mp3",
+      "lang": "Marathi",
+      "track": 2
+    },
+    {
+      "title": "Adhyay - 02",
+      "url": "http://archive.org/download/MarathiGita/chapter_02_marathi.mp3",
+      "lang": "Marathi",
+      "track": 3
+    },
+    {
+      "title": "Adhyay - 03",
+      "url": "http://archive.org/download/MarathiGita/chapter_03_marathi.mp3",
+      "lang": "Marathi",
+      "track": 4
+    },
+    {
+      "title": "Adhyay - 04",
+      "url": "http://archive.org/download/MarathiGita/chapter_04_marathi.mp3",
+      "lang": "Marathi",
+      "track": 5
+    },
+    {
+      "title": "Adhyay - 05",
+      "url": "http://archive.org/download/MarathiGita/chapter_05_marathi.mp3",
+      "lang": "Marathi",
+      "track": 6
+    },
+    {
+      "title": "Adhyay - 06",
+      "url": "http://archive.org/download/MarathiGita/chapter_06_marathi.mp3",
+      "lang": "Marathi",
+      "track": 7
+    },
+    {
+      "title": "Adhyay - 07",
+      "url": "http://archive.org/download/MarathiGita/chapter_07_marathi.mp3",
+      "lang": "Marathi",
+      "track": 8
+    },
+    {
+      "title": "Adhyay - 08",
+      "url": "http://archive.org/download/MarathiGita/chapter_08_marathi.mp3",
+      "lang": "Marathi",
+      "track": 9
+    },
+    {
+      "title": "Adhyay - 09",
+      "url": "http://archive.org/download/MarathiGita/chapter_09_marathi.mp3",
+      "lang": "Marathi",
+      "track": 10
+    },
+    {
+      "title": "Adhyay - 10",
+      "url": "http://archive.org/download/MarathiGita/chapter_10_marathi.mp3",
+      "lang": "Marathi",
+      "track": 11
+    },
+    {
+      "title": "Adhyay - 11",
+      "url": "http://archive.org/download/MarathiGita/chapter_11_marathi.mp3",
+      "lang": "Marathi",
+      "track": 12
+    },
+    {
+      "title": "Adhyay - 12",
+      "url": "http://archive.org/download/MarathiGita/chapter_12_marathi.mp3",
+      "lang": "Marathi",
+      "track": 13
+    },
+    {
+      "title": "Adhyay - 13",
+      "url": "http://archive.org/download/MarathiGita/chapter_13_marathi.mp3",
+      "lang": "Marathi",
+      "track": 14
+    },
+    {
+      "title": "Adhyay - 14",
+      "url": "http://archive.org/download/MarathiGita/chapter_14_marathi.mp3",
+      "lang": "Marathi",
+      "track": 15
+    },
+    {
+      "title": "Adhyay - 15",
+      "url": "http://archive.org/download/MarathiGita/chapter_15_marathi.mp3",
+      "lang": "Marathi",
+      "track": 16
+    },
+    {
+      "title": "Adhyay - 16",
+      "url": "http://archive.org/download/MarathiGita/chapter_16_marathi.mp3",
+      "lang": "Marathi",
+      "track": 17
+    },
+    {
+      "title": "Adhyay - 17",
+      "url": "http://archive.org/download/MarathiGita/chapter_17_marathi.mp3",
+      "lang": "Marathi",
+      "track": 18
+    },
+    {
+      "title": "Adhyay - 18",
+      "url": "http://archive.org/download/MarathiGita/chapter_18_marathi.mp3",
+      "lang": "Marathi",
+      "track": 19
+    },
+    {
+      "title": "Introduction 01",
+      "url": "http://archive.org/download/EnglishGita/en_01_Introduction.mp3",
+      "lang": "English",
+      "track": 1
+    },
+    {
+      "title": "Introduction 02",
+      "url": "http://archive.org/download/EnglishGita/en_02_Introduction.mp3",
+      "lang": "English",
+      "track": 2
+    },
+    {
+      "title": "Adhyay - 01",
+      "url": "http://archive.org/download/EnglishGita/en_03_chapter_01.mp3",
+      "lang": "English",
+      "track": 3
+    },
+    {
+      "title": "Adhyay - 02",
+      "url": "http://archive.org/download/EnglishGita/en_04_chapter_02.mp3",
+      "lang": "English",
+      "track": 4
+    },
+    {
+      "title": "Adhyay - 03",
+      "url": "http://archive.org/download/EnglishGita/en_05_chapter_03.mp3",
+      "lang": "English",
+      "track": 5
+    },
+    {
+      "title": "Adhyay - 04",
+      "url": "http://archive.org/download/EnglishGita/en_06_chapter_04.mp3",
+      "lang": "English",
+      "track": 6
+    },
+    {
+      "title": "Adhyay - 05",
+      "url": "http://archive.org/download/EnglishGita/en_07_chapter_05.mp3",
+      "lang": "English",
+      "track": 7
+    },
+    {
+      "title": "Adhyay - 06",
+      "url": "http://archive.org/download/EnglishGita/en_08_chapter_06.mp3",
+      "lang": "English",
+      "track": 8
+    },
+    {
+      "title": "Adhyay - 07",
+      "url": "http://archive.org/download/EnglishGita/en_09_chapter_07.mp3",
+      "lang": "English",
+      "track": 9
+    },
+    {
+      "title": "Adhyay - 08",
+      "url": "http://archive.org/download/EnglishGita/en_10_chapter_08.mp3",
+      "lang": "English",
+      "track": 10
+    },
+    {
+      "title": "Adhyay - 09",
+      "url": "http://archive.org/download/EnglishGita/en_11_chapter_09.mp3",
+      "lang": "English",
+      "track": 11
+    },
+    {
+      "title": "Adhyay - 10",
+      "url": "http://archive.org/download/EnglishGita/en_12_chapter_10.mp3",
+      "lang": "English",
+      "track": 12
+    },
+    {
+      "title": "Adhyay - 11",
+      "url": "http://archive.org/download/EnglishGita/en_13_chapter_11.mp3",
+      "lang": "English",
+      "track": 13
+    },
+    {
+      "title": "Adhyay - 12",
+      "url": "http://archive.org/download/EnglishGita/en_14_chapter_12.mp3",
+      "lang": "English",
+      "track": 14
+    },
+    {
+      "title": "Adhyay - 13",
+      "url": "http://archive.org/download/EnglishGita/en_15_chapter_13.mp3",
+      "lang": "English",
+      "track": 15
+    },
+    {
+      "title": "Adhyay - 14",
+      "url": "http://archive.org/download/EnglishGita/en_16_chapter_14.mp3",
+      "lang": "English",
+      "track": 16
+    },
+    {
+      "title": "Adhyay - 15",
+      "url": "http://archive.org/download/EnglishGita/en_17_chapter_15.mp3",
+      "lang": "English",
+      "track": 17
+    },
+    {
+      "title": "Adhyay - 16",
+      "url": "http://archive.org/download/EnglishGita/en_18_chapter_16.mp3",
+      "lang": "English",
+      "track": 18
+    },
+    {
+      "title": "Adhyay - 17",
+      "url": "http://archive.org/download/EnglishGita/en_19_chapter_17.mp3",
+      "lang": "English",
+      "track": 19
+    },
+    {
+      "title": "Adhyay - 18",
+      "url": "http://archive.org/download/EnglishGita/en_20_chapter_18.mp3",
+      "lang": "English",
+      "track": 20
+    }
+    
+  ]
+}

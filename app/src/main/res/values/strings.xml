@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gita Audio</string>
+    <string name="app_name_reader">Shrimad Bhagavad Gita</string>
+
+    <string-array name="array_list_item">
+        <item>Gujarati</item>
+        <item>Hindi</item>
+        <item>Sanskrit</item>
+        <item>Marathi</item>
+        <item>English</item>
+        <item>Downloaded</item>
+    </string-array>
+
+    <string-array name="array_list_album">
+        <item>Gujarati - Bhagavad Gita</item>
+        <item>Gujarati - Bhaj Govindam</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_download">Download</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

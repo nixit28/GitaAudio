@@ -1,0 +1,71 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--Layer 0-->
+    <!--Layer 1-->
+    <!--Layer 2-->
+    <!--Layer 3-->
+    <!--Layer 4 (content background)-->
+
+    <!-- dropshadow -->
+    <item>
+        <shape>
+            <gradient
+                android:startColor="@android:color/white"
+                android:endColor="@android:color/white"
+                android:centerColor="#10CCCCCC"
+                android:angle="180"/>
+            <padding android:top="0dp" android:right="0dp" android:bottom="2dp" android:left="0dp" />
+        </shape>
+    </item>
+
+    <item>
+        <shape>
+            <gradient
+                android:startColor="@android:color/white"
+                android:endColor="@android:color/white"
+                android:centerColor="#20CCCCCC"
+                android:angle="180"/>
+            <padding android:top="0dp" android:right="0dp" android:bottom="2dp" android:left="0dp" />
+        </shape>
+    </item>
+
+    <item>
+        <shape>
+            <gradient
+                android:startColor="@android:color/white"
+                android:endColor="@android:color/white"
+                android:centerColor="#30CCCCCC"
+                android:angle="180"/>
+
+            <padding android:top="0dp" android:right="0dp" android:bottom="2dp" android:left="0dp" />
+        </shape>
+    </item>
+
+    <item>
+        <shape>
+            <gradient
+                android:startColor="@android:color/white"
+                android:endColor="@android:color/white"
+                android:centerColor="#40CCCCCC"
+                android:angle="180"/>
+            <padding android:top="0dp" android:right="0dp" android:bottom="2dp" android:left="0dp" />
+        </shape>
+    </item>
+
+    <item>
+        <shape>
+            <gradient
+                android:startColor="@android:color/white"
+                android:endColor="@android:color/white"
+                android:centerColor="#50CCCCCC"
+                android:angle="180"/>
+            <padding android:top="0dp" android:right="0dp" android:bottom="2dp" android:left="0dp" />
+        </shape>
+    </item>
+
+    <!-- content background -->
+    <item>
+        <shape>
+            <solid android:color="#345678" />
+        </shape>
+    </item>
+    </layer-list>

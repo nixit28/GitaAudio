@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity$PlaceholderFragment"
+    android:layout_width="match_parent"
+    android:paddingLeft="@dimen/list_item_horizontal_padding"
+    android:paddingRight="@dimen/list_item_horizontal_padding"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/txtTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/list_item_vertical_padding"
+        android:text="Adhyay 01"
+        android:layout_toLeftOf="@+id/imgPlayIndicator"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:paddingBottom="@dimen/list_item_vertical_padding" />
+    <ImageView
+        android:id="@+id/imgPlayIndicator"
+        android:src="@drawable/abc_ic_menu_moreoverflow_normal_holo_light"
+        android:layout_width="wrap_content"
+        android:visibility="invisible"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/menuList"
+        android:layout_height="wrap_content" />
+    <ImageView
+        android:id="@+id/menuList"
+        android:src="@drawable/abc_ic_menu_moreoverflow_normal_holo_light"
+        android:layout_width="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>

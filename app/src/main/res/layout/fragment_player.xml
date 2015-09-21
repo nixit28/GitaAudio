@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/krishnanarayana"
+    tools:context=".PlayerFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:background="#bb272b35"
+        android:layout_height="match_parent">
+
+        <ImageButton
+            android:id="@+id/btnShareCtrl"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_margin="10dp"
+            android:background="@drawable/bg_btn_play"
+            android:src="@drawable/ic_share" />
+
+        <ImageButton
+            android:id="@+id/btnStopCtrl"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:background="@drawable/bg_btn_play"
+            android:src="@drawable/ic_stop" />
+
+        <ImageButton
+            android:id="@+id/btnDownloadCtrl"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_margin="10dp"
+            android:background="@drawable/bg_btn_play"
+            android:src="@drawable/ic_download" />
+
+
+        <ImageButton
+            android:id="@+id/btnPlayCtrl"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dip"
+            android:layout_centerInParent="true"
+            android:background="@drawable/bg_btn_play"
+            android:src="@drawable/indi_btn_play" />
+
+        <ImageButton
+            android:id="@+id/btnNextCtrl"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/btnPlayCtrl"
+            android:layout_centerVertical="true"
+            android:background="@drawable/bg_btn_play"
+            android:src="@drawable/ic_skip_forward" />
+
+        <ImageButton
+            android:id="@+id/btnBackCtrl"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/btnPlayCtrl"
+            android:layout_centerVertical="true"
+            android:background="@drawable/bg_btn_play"
+            android:src="@drawable/ic_skip_back" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_margin="10dip"
+            android:background="@drawable/bg_progressbar"
+            android:layout_alignParentBottom="true"
+            android:layout_height="80dp">
+
+            <TextView
+                android:id="@+id/txtCurrentTime"
+                android:layout_width="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_margin="10dip"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/seekBarCtrl"
+                android:textSize="16sp"
+                android:text="00:00"/>
+
+            <TextView
+                android:id="@+id/txtDuration"
+                android:layout_width="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_margin="10dip"
+                android:layout_above="@+id/seekBarCtrl"
+                android:textSize="16sp"
+                android:layout_height="wrap_content"
+                android:text="00:00"/>
+
+            <SeekBar
+                android:id="@+id/seekBarCtrl"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:max="100"
+                android:layout_alignParentBottom="true"
+                android:indeterminate="false" />
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</LinearLayout>

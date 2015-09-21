@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- File created by the Android Action Bar Style Generator
+
+     Copyright (C) 2011 The Android Open Source Project
+     Copyright (C) 2012 readyState Software Ltd
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+
+    <style name="Theme.Sbg" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:actionBarItemBackground">@drawable/selectable_background_sbg</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu.Sbg</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Sbg</item>
+        <item name="android:actionBarTabStyle">@style/ActionBarTabStyle.Sbg</item>
+        <item name="android:actionDropDownStyle">@style/DropDownNav.Sbg</item>
+        <item name="android:actionBarStyle">@style/ActionBar.Solid.Sbg</item>
+        <item name="android:actionModeBackground">@drawable/cab_background_top_sbg</item>
+        <item name="android:actionModeSplitBackground">@drawable/cab_background_bottom_sbg</item>
+        <item name="android:actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Sbg</item>
+        <item name="android:windowActionBarOverlay">true</item>
+                <!-- Light.DarkActionBar specific -->
+        <item name="android:actionBarWidgetTheme">@style/Theme.Sbg.Widget</item>
+
+        <item name="android:seekBarStyle">@style/SeekBarSBG</item>
+        <item name="android:dropDownSpinnerStyle">@style/SpinnerSBG1</item>
+    </style>
+
+    <style name="SpinnerSBG1" parent="android:Widget.Holo.Light.Spinner">
+        <item name="android:background">@drawable/sbg1_spinner_background_holo_light</item>
+        <item name="android:dropDownSelector">@drawable/sbg1_list_selector_holo_light</item>
+    </style>
+
+    <style name="ActionBar.Solid.Sbg" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@drawable/ab_solid_sbg</item>
+        <item name="android:backgroundStacked">@drawable/ab_stacked_solid_sbg</item>
+        <item name="android:backgroundSplit">@drawable/ab_bottom_solid_sbg</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Sbg</item>
+    </style>
+
+    <style name="ActionBar.Transparent.Sbg" parent="@style/Widget.AppCompat.ActionBar">
+        <item name="android:background">@drawable/ab_transparent_sbg</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Sbg</item>
+    </style>
+    
+    <!-- this style is only referenced in a Light.DarkActionBar based theme -->
+    <style name="Theme.Sbg.Widget" parent="@style/Theme.AppCompat">
+        <item name="android:popupMenuStyle">@style/PopupMenu.Sbg</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Sbg</item>
+    </style>
+
+    <style name="SeekBarSBG" parent="android:Widget.Holo.Light.SeekBar">
+        <item name="android:progressDrawable">
+            @drawable/sbg_scrubber_progress_horizontal_holo_light
+        </item>
+        <item name="android:indeterminateDrawable">
+            @drawable/sbg_scrubber_progress_horizontal_holo_light
+        </item>
+        <item name="android:thumb">@drawable/sbg_scrubber_control_selector_holo_light</item>
+    </style>
+
+</resources>
